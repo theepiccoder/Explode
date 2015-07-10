@@ -1,0 +1,4 @@
+name: Explode
+main: com.ConorGrocock.src.Explode
+version: 1.0
+commands:
